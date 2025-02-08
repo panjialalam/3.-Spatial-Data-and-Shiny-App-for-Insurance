@@ -1,0 +1,13 @@
+name: Final_Project
+title: Final_Project
+username: panjialalam
+account: panjialalam
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11321337
+bundleId: 8295678
+url: https://panjialalam.shinyapps.io/Final_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: acs_2022.csv|insurance_age.csv|nhgis_insurance_codebook.txt|nhgis_insurance.csv
